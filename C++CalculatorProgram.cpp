@@ -1,5 +1,5 @@
 // C++ Program that creates a calculator that can perform addition, subtraction, multiplication, division, modulus division, and power operations.
-
+// Utilizes the 4 fundamentals of programming. Namely user input, user output, conditionals, and loops.
 #include <iostream>
 #include <iomanip>
 #include <string>
